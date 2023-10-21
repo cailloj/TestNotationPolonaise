@@ -3,6 +3,7 @@
  * author : Emds
  * date : 20/06/2020
  */
+
 using System;
 
 namespace TestNotationPolonaise
